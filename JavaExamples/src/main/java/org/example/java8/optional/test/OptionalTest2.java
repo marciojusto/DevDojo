@@ -1,8 +1,8 @@
-package org.example.optional.test;
+package org.example.java8.optional.test;
 
-import org.example.optional.classes.Carro;
-import org.example.optional.classes.Pessoa;
-import org.example.optional.classes.Seguradora;
+import org.example.java8.optional.classes.Carro;
+import org.example.java8.optional.classes.Pessoa;
+import org.example.java8.optional.classes.Seguradora;
 
 import java.util.Optional;
 
