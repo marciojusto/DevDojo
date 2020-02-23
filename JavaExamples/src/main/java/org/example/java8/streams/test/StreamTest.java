@@ -2,7 +2,6 @@ package org.example.java8.streams.test;
 
 import org.example.java8.streams.classes.Pessoa;
 
-import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
