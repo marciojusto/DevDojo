@@ -1,8 +1,10 @@
-package org.example.optional.classes2;
+package org.example.java8.optional.classes2;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
+@AllArgsConstructor
 public class Carro {
 
     private Seguradora seguradora;

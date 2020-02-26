@@ -1,4 +1,4 @@
-package org.example.optional.classes;
+package org.example.java8.optional.classes;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
