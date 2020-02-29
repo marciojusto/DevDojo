@@ -5,7 +5,7 @@ import org.example.java8.streams.classes.Pessoa;
 import java.util.Comparator;
 import java.util.List;
 
-public class StreamTest3 {
+public class StreamTest3FindMatch {
 
     public static void main(String[] args) {
         List<Pessoa> pessoas = Pessoa.bancoDePessoas();
