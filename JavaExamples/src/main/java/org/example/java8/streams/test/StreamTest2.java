@@ -1,7 +1,6 @@
 package org.example.java8.streams.test;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -19,7 +18,7 @@ public class StreamTest2 {
         System.out.println(nomes);
 
         List<String> strings = nomes.stream()
-                                    .flatMap(Collection::stream)
+                                    .flatMap(List::stream)
                                     .collect(Collectors.toList());
 
         System.out.println(strings);
