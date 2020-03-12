@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+    <reference>NN353015</reference>
+    <identityModule>
+        <companyId>848607396</companyId>
+        <refId>A29I91P52</refId>
+        <nic>00019</nic>
+        <vat>FR67848607396</vat>
+        <officialCompanyName>SHELTER-PROCHE &amp; AILLEURS</officialCompanyName>
+        <headEstablishment>
+            <tradeName>SHELTER-Proche &amp; Ailleurs</tradeName>
+            <phoneNumber>0437625480</phoneNumber>
+            <address wayNumber="4" wayName="Rue Charles Robin" country="France" deliveryAddress="4 Rue Charles Robin" postalDelivery="01000 BOURG EN BRESSE" />
+        </headEstablishment>
+        <branchesCount type="ALL">1</branchesCount>
+    </identityModule>
+    <companyCharacteristicsModule>
+        <registrationDate format="YYYYMMDD">20190226</registrationDate>
+        <establishedDate format="YYYYMMDD" precision="J">20190201</establishedDate>
+        <tradeRegistration rcNumber="2019B00339">
+            <city>Bourg-En-Bresse</city>
+        </tradeRegistration>
+        <legalForm code="5498">SARL unipersonnelle</legalForm>
+        <adaptedSharecapital>
+            <amount>15000</amount>
+            <currency ISOName="Euros" />
+        </adaptedSharecapital>
+        <enteredSharecapital>
+            <amount>15000</amount>
+            <currency code="300" />
+        </enteredSharecapital>
+        <activityApe08 code="8299Z">Autres activités de soutien aux entreprises n.c.a.</activityApe08>
+        <activityNace08 code="8299">Autres activités de soutien aux entreprises n.c.a.</activityNace08>
+        <employees>0</employees>
+        <collectiveLabourAgreement>Convention collective nationale du personnel des prestataires de services dans le domaine du secteur tertiaire</collectiveLabourAgreement>
+        <market>Local</market>
+        <operatingMode code="1">Propriétaire-exploitant direct</operatingMode>
+        <stockExchangeQuotation>N</stockExchangeQuotation>
+    </companyCharacteristicsModule>
+</report>

@@ -1,7 +1,7 @@
 package org.example.java8.lambda;
 
+import org.example.java8.optional.classes.Seguradora;
 import org.example.java8.optional.classes2.Carro;
-import org.example.java8.optional.classes2.Seguradora;
 
 import java.util.function.Supplier;
 

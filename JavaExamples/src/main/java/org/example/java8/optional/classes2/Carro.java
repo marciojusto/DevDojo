@@ -2,6 +2,7 @@ package org.example.java8.optional.classes2;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import org.example.java8.optional.classes.Seguradora;
 
 @Data
 @AllArgsConstructor
